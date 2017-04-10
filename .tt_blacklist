@@ -1,4 +1,3 @@
-tools/dexseq
 tools/differential_count_models
 tools/gatk2
 tools/gff3_rebase
@@ -11,5 +10,4 @@ tools/gemini
 tools/taxonomy_krona_chart
 tools/tool_factory_2
 tools/transtermhp
-tools/trinity
 deprecated/tools/htseq
